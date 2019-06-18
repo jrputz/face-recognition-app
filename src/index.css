@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  font-family: -apple-system, "Courier New", Courier, monospace, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(89deg, rgb(216, 10, 54) 0%, rgb(129, 119, 119) 100%); /* w3c */
+}
+
+button{
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
